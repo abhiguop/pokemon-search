@@ -71,7 +71,7 @@ finproject/
 ├── backend/            # Express server and API logic
 │   ├── controllers/    # Request handlers
 │   ├── routes/         # API route definitions
-│   ├── services/       # Business logic / External API calls
+│   ├── services/        External API calls
 │   ├── utils/          # Utility functions (e.g., error handling)
 │   └── server.js       # Entry point for the backend
 │
